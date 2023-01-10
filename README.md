@@ -31,7 +31,7 @@ The internal structure of each component is the following:
 
 ### Query the weather information of a city in the current day AND the forecast of the weather in the next five days:
 
-**GET** request to `http://127.0.0.1:3001/api?city={city_name}`&forecast=true
+**GET** request to `http://127.0.0.1:3001/api?city={city_name}&forecast=true`
 
 ### Query the forecast of the weather in the next five days:
 
