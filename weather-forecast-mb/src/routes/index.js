@@ -1,12 +1,12 @@
 const express = require('express');
 const axios = require('axios');
-const { NOT_FOUND_ERROR, UNAUTHORIZED_ERROR, INTERNAL_SERVER_ERROR, BAD_REQUEST_ERROR} = require('../errors/codes');
+const { NOT_FOUND_ERROR, UNAUTHORIZED_ERROR, INTERNAL_SERVER_ERROR, BAD_REQUEST_ERROR } = require('../errors/codes');
 const APIInvalidKeyError = require('../errors/api-invalid-key.error');
 const CityNotFoundError = require('../errors/city-not-found.error');
 const FiveDaysWeatherForecastInternalServerError = require('../errors/five-days-weather-forecast-internal-server.error');
 const InternalServerError = require('../errors/internal-server.error');
 const BadRequestError = require('../errors/bad-request.error');
-const logger = require("../logging/logger");
+const logger = require('../logging/logger');
 
 const router = express.Router();
 

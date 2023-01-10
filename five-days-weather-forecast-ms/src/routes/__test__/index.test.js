@@ -4,7 +4,7 @@ const { NOT_FOUND_ERROR, BAD_REQUEST_ERROR } = require('../../errors/codes');
 
 const queryWeatherForecast = (city) => {
   return request(app).get(`/api?city=${city}`);
-}
+};
 
 it('can query next five days weather forecast of a city', async () => {
   const city = 'London';

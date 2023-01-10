@@ -1,6 +1,6 @@
 const request = require('supertest');
 const { app } = require('../../app');
-const { NOT_FOUND_ERROR, BAD_REQUEST_ERROR} = require('../../errors/codes');
+const { NOT_FOUND_ERROR, BAD_REQUEST_ERROR } = require('../../errors/codes');
 
 const queryWeatherForecast = (city) => {
   return request(app).get(`/api?city=${city}`);

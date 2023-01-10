@@ -1,12 +1,10 @@
-require('dotenv').config()
-
 const express = require('express');
 const axios = require('axios');
-const { NOT_FOUND_ERROR, UNAUTHORIZED_ERROR, BAD_REQUEST_ERROR} = require('../errors/codes');
+const { NOT_FOUND_ERROR, UNAUTHORIZED_ERROR, BAD_REQUEST_ERROR } = require('../errors/codes');
 const APIInvalidKeyError = require('../errors/api-invalid-key.error');
 const CityNotFoundError = require('../errors/city-not-found.error');
 const APIInternalServerError = require('../errors/api-internal-server.error');
-const BadRequestError = require("../errors/bad-request.error");
+const BadRequestError = require('../errors/bad-request.error');
 const logger = require('../logging/logger');
 
 const router = express.Router();
