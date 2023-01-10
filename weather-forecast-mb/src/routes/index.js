@@ -13,17 +13,13 @@ const router = express.Router();
 // Non-blocking
 router.get('/api', async (req, res) => {
   const { city } = req.query
-  if (!city) {
-    throw new BadRequestError();
-  }
   try {
     // Non-blocking
     const result = await axios.get(
       process.env.FIVE_DAYS_WEATHER_FORECAST_MS_URL,
       {
         params: {
-          city,
-
+          city
         }
       }
     );
