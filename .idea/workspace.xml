@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60728a04-ce98-4fb1-a2a1-627e5147b1b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/errors/api-internal-server.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/errors/api-invalid-key.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/errors/bad-request.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/errors/city-not-found.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/errors/codes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/errors/route-not-found.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/logging/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/routes/__test__/index.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five-days-weather-forecast-ms/src/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/errors/api-internal-server.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/errors/api-invalid-key.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/errors/bad-request.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/errors/city-not-found.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/errors/codes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/errors/route-not-found.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/logging/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/routes/__test__/index.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/today-weather-ms/src/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/errors/api-invalid-key.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/errors/bad-request.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/errors/city-not-found.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/errors/codes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/errors/five-days-weather-forecast-internal-server.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/errors/internal-server.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/errors/route-not-found.error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/logging/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/routes/__test__/index.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-forecast-mb/src/routes/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2K8xCPpxQkk7D51XfIBQAdEo3Tj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.google.cloudcode.ide_session_index" value="20230110_0001" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/weather-forecast-mb/src/logging" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/today-weather-ms/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="ssh.settings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\proyectos\PruebaSuperpagos\weather-forecast-mb\src\logging" />
+      <recent name="C:\Users\usuario\proyectos\PruebaSuperpagos\five-days-weather-forecast-ms\src\logging" />
+      <recent name="C:\Users\usuario\proyectos\PruebaSuperpagos\five-days-weather-forecast-ms\src\errors" />
+      <recent name="C:\Users\usuario\proyectos\PruebaSuperpagos\today-weather-ms\src\errors" />
+      <recent name="C:\Users\usuario\proyectos\PruebaSuperpagos\weather-forecast-mb\src\errors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\proyectos\PruebaSuperpagos" />
+      <recent name="C:\Users\usuario\proyectos\PruebaSuperpagos\today-weather-ms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.can query today's weather of a city">
+    <configuration name="can query today's weather of a city with the forecast included" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/today-weather-ms/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/today-weather-ms" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/today-weather-ms/src/routes/__test__/index.test.js" />
+      <test-names>
+        <test-name value="can query today's weather of a city with the forecast included" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="can query today's weather of a city" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/today-weather-ms/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/today-weather-ms" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/today-weather-ms/src/routes/__test__/index.test.js" />
+      <test-names>
+        <test-name value="can query today's weather of a city" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.can query today's weather of a city" />
+        <item itemvalue="Jest.can query today's weather of a city with the forecast included" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60728a04-ce98-4fb1-a2a1-627e5147b1b8" name="Changes" comment="" />
+      <created>1673369886015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673369886015</updated>
+      <workItem from="1673369887752" duration="14222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
